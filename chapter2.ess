@@ -1,3 +1,10 @@
 // 3.2. Комбинированный вывод приветствия с вашим возрастом (замените значение age на ваше)
-age = 20;
-print("Привет! Мне " + age + " лет.");
+start
+new name string
+new age number
+
+set name "Даня"
+set age 17
+
+log string "Привет, меня зовут " >> name >> ", мне " >>  age >> " лет."
+finish
